@@ -1,3 +1,7 @@
+# Fork of stan for use in LPV estimation
+This fork has been created to experiment with hmc estimation of linear parameter varying dynamic systems
+
+
 <a href="http://mc-stan.org">
 <img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo.png" width=200 alt="Stan Logo"/>
 </a>
